@@ -1,3 +1,3 @@
 # odin-recipes
 
-Project built from
+The first project from The Odin Project's Foundation course. 
